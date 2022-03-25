@@ -31,10 +31,6 @@
 <br>
 <h3>👨🏾‍🦱 Social Links</h3>
 
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/gustavo-nasc" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen"/>
-</a>
 <a href="https://twitter.com/gustanascsouza" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>  
 </a>
