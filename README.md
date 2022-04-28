@@ -8,7 +8,6 @@
 - 🆘 I'm looking for help with: React.js, React Native, Angular, TypeScript, Node.js!
 - ⚡ Fun Fact: "Trying to do better" - Spider-Man
 <br>
-<br>
 <h3> 🧠 Tech Stack</h3>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,8 +17,6 @@
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-<br>
 <br>
 <h3>📑 Learning</h3>
 
@@ -28,10 +25,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
 <br>
-<br>
-
 <h3>👨🏾‍🦱 Social Links</h3>
 
 <a href="https://twitter.com/gustanascsouza" target="_blank">
@@ -43,11 +37,9 @@
 <a href="https://www.facebook.com/profile.php?id=100017365989262" target="_blank">
  <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
 </a>
-
 <br>
-<br>
-
 <h3>📞 Fale Comigo</h3>
+
 <a href="mailto:gunascsouza@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
 </a>
