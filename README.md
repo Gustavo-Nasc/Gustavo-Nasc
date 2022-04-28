@@ -54,7 +54,7 @@
 <a href="mailto:gustavo.ns@outlook.com.br" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="outlook"/>
 </a>
-<a href="https://www.linkedin.com/in/gustavo-nascimento-souza-339672206/" target="_blank">
+<a href="https://www.linkedin.com/in/gustanascsouza/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 <a href="https://wa.me/5511976495898" target="_blank">
