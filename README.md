@@ -1,4 +1,4 @@
-<h1 align="center">Hey, how's it going? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Gustavo Nascimento!</h1>
+<h1 align="center">Hey, how's it going? 👋🏾 I'm Gustavo Nascimento!</h1>
 <h3 align="center">I'm a Software Development Student focused on starting a career! 🚀</h3>
 
 - 💼 I am currently not working, but I'm #OpenToWork!
