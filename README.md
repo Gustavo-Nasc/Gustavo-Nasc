@@ -1,58 +1,66 @@
-<h1 align="center">Hey, how's it going? 👋🏾 I'm Gustavo Nascimento!</h1>
+<h1 align="center">Hey, how's it going? 👋🏾 <i>I'm Gustavo Nascimento</i>!</h1>
 <h3 align="center">I'm a Software Development Student focused on starting a career! 🚀</h3>
 
-- 💼 I am currently not working, but I'm #OpenToWork!
-- 🎓 Technical degree in Systems Analysis and Development at ETEC Cidade Tiradentes!
-- 💻 Studying technologist in Multiplatform Software Development at FATEC Zona Leste!
-- 👩‍💻 Studying HTML, CSS, JavaScript, React.js e React Native!
-- 🆘 I'm looking for help with: React.js, React Native, Angular, TypeScript, Node.js!
+<br>
+
+- 💼 I am currently not working, but I'm #OpenToWork
+- 🎓 Technical degree in Systems Analysis and Development at ETEC Cidade Tiradentes
+- 💻 Studying technologist in Multiplatform Software Development at FATEC Zona Leste
+- 👩‍💻 Studying HTML, CSS, JavaScript
+- 🆘 I'm looking for help with: Node.js, React.js, React Native, TypeScript, AngularJS, Angular
 - ⚡ Fun Fact: "Trying to do better" - Spider-Man
-<br>
-<br>
-<h3> 🧠 Tech Stack</h3>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-<br>
-<br>
-<h3>📑 Learning</h3>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-Nasc&count_private=true&theme=github_dark&show_icons=true" alt="Gustavo-Nasc Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Nasc&layout=compact&theme=github_dark&langs_count=10" alt="Gustavo-Nasc Most Used Languages">
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 <br>
-<br>
-<h3>👨🏾‍🦱 Social Links</h3>
 
-<a href="https://twitter.com/gustanascsouza" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>  
-</a>
-<a href="https://www.instagram.com/gustanascsouza/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
-</a>
-<a href="https://www.facebook.com/profile.php?id=100017365989262" target="_blank">
- <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
-</a>
-<br>
-<br>
-<h3>📞 Fale Comigo</h3>
+## 🧠 Tech Stack
 
-<a href="mailto:gunascsouza@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="35"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" width="40" height="35">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Javascript" width="40" height="35">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="45" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" width="40" height="35">
+<img src="https://cdn-user-icons.flaticon.com/73688/73688803/1655585449071.svg?token=exp=1655586350~hmac=e3743bb890b10f730a6d5af21e5f020a" alt="GitHub" width="35" />
+
+<br>
+
+## 📑 Learning</h3>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40" height="35"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="AngularJS" width="40" height="35">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" width="40" height="35">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="40" height="35">
+
+<br>
+
+## 👨🏾‍🦱 Social Links
+
+<a href="https://twitter.com/gustanascsouza">
+    <img src="https://cdn-user-icons.flaticon.com/21836/21836767/1655584826469.svg?token=exp=1655585727~hmac=caaede5c291fc8ea67e4b2a759fe1998" alt="Twitter" width="40">
 </a>
-<a href="mailto:gustavo.ns@outlook.com.br" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="outlook"/>
+<a href="https://www.instagram.com/gustanascsouza/">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40">
 </a>
-<a href="https://www.linkedin.com/in/gustanascsouza/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+<a href="https://www.facebook.com/gustanascsouza/">
+    <img src="https://cdn-user-icons.flaticon.com/21836/21836767/1655585034957.svg?token=exp=1655585936~hmac=9e4f2c97b26b99c4cbdc2ff85d8adcda" alt="Facebook" width="40">
 </a>
-<a href="https://wa.me/5511976495898" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/>
+
+<br>
+<br>
+
+## 📞 Fale Comigo
+
+<a href="mailto:gunascsouza@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Gmail" width="40">
+</a>
+<a href="mailto:gustavo.ns@outlook.com.br">
+    <img src="https://logospng.org/download/microsoft-outlook/logo-microsoft-outlook-1024.png" alt="Outlook" width="42.5">
+</a>
+<a href="https://www.linkedin.com/in/gustanascsouza/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40">
+</a>
+<a href="https://wa.me/5511976495898">
+    <img src="https://cdn-user-icons.flaticon.com/21836/21836767/1655584493681.svg?token=exp=1655585394~hmac=5ea9dbd98810ea696c06faad4755c675" alt="Whatsapp" width="40">
 </a>
