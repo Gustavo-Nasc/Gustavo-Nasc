@@ -1,66 +1,79 @@
-<h1 align="center">Hey, how's it going? 👋🏾 <i>I'm Gustavo Nascimento</i>!</h1>
-<h3 align="center">I'm a Software Development Student focused on starting a career! 🚀</h3>
+<h1 align="center">Hey, what's up👋! My name is Gustavo Nascimento!</h1>
 
 <br>
 
 - 💼 I am currently not working, but I'm #OpenToWork
 - 🎓 Technical degree in Systems Analysis and Development at ETEC Cidade Tiradentes
 - 💻 Studying technologist in Multiplatform Software Development at FATEC Zona Leste
-- 👩‍💻 Studying HTML, CSS, JavaScript
-- 🆘 I'm looking for help with: Node.js, React.js, React Native, TypeScript, AngularJS, Angular
 - ⚡ Fun Fact: "Trying to do better" - Spider-Man
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-Nasc&count_private=true&theme=github_dark&show_icons=true" alt="Gustavo-Nasc Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Nasc&layout=compact&theme=github_dark&langs_count=10" alt="Gustavo-Nasc Most Used Languages">
-</p>
-
 <br>
 
-## 🧠 Tech Stack
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&username=Gustavo-Nasc" height="175" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false&username=Gustavo-Nasc" height="175" alt="languages graph"  />
+</div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="35"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" width="40" height="35">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Javascript" width="40" height="35">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="45" height="40">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" width="40" height="35">
-<img src="https://cdn-user-icons.flaticon.com/73688/73688803/1655585449071.svg?token=exp=1655586350~hmac=e3743bb890b10f730a6d5af21e5f020a" alt="GitHub" width="35" />
+---
 
-<br>
+<h2 align="left">👨‍💻 Tech Stack</h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="55" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="55" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="55" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="55" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="55" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="55" alt="github logo"  />
+</div>
 
-## 📑 Learning</h3>
+---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40" height="35"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="AngularJS" width="40" height="35">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" width="40" height="35">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="40" height="35">
+<h2 align="left">📑 Learning</h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="55" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="55" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="55" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="55" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" width="55" alt="heroku logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="55" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="55" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="55" alt="npm logo"  />
+</div>
 
-<br>
+---
 
-## 👨🏾‍🦱 Social Links
+<h2 align="left">👨🏾‍🦱 Social Links</h2>
+<div align="left">
+  <a href="https://www.instagram.com/gustanascsouza/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=DD2A7B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="Gustavo Souza#3639" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://twitter.com/gustanascsouza" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://www.facebook.com/gustanascsouza/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+</div>
 
-<a href="https://twitter.com/gustanascsouza">
-    <img src="https://cdn-user-icons.flaticon.com/21836/21836767/1655584826469.svg?token=exp=1655585727~hmac=caaede5c291fc8ea67e4b2a759fe1998" alt="Twitter" width="40">
-</a>
-<a href="https://www.instagram.com/gustanascsouza/">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40">
-</a>
-<a href="https://www.facebook.com/gustanascsouza/">
-    <img src="https://cdn-user-icons.flaticon.com/21836/21836767/1655585034957.svg?token=exp=1655585936~hmac=9e4f2c97b26b99c4cbdc2ff85d8adcda" alt="Facebook" width="40">
-</a>
+---
 
-<br>
-<br>
+<h2 align="left">📞 Contact</h2>
+<div align="left">
+  <a href="https://www.linkedin.com/in/gustanascsouza/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:gunascsouza@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="mailto:gustavo.ns@outlook.com.br" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://wa.me/5511976495898" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
 
-## 📞 Fale Comigo
-
-<a href="mailto:gunascsouza@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Gmail" width="40">
-</a>
-<a href="mailto:gustavo.ns@outlook.com.br">
-    <img src="https://logospng.org/download/microsoft-outlook/logo-microsoft-outlook-1024.png" alt="Outlook" width="42.5">
-</a>
-<a href="https://www.linkedin.com/in/gustanascsouza/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40">
-</a>
-<a href="https://wa.me/5511976495898">
-    <img src="https://cdn-user-icons.flaticon.com/21836/21836767/1655584493681.svg?token=exp=1655585394~hmac=5ea9dbd98810ea696c06faad4755c675" alt="Whatsapp" width="40">
-</a>
+---
