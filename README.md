@@ -77,3 +77,5 @@
 </div>
 
 ---
+
+![Snake animation](https://github.com/Gustavo-Nasc/Gustavo-Nasc/blob/output/github-contribution-grid-snake.svg)
