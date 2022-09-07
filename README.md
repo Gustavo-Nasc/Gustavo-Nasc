@@ -1,11 +1,14 @@
 <h1 align="center">Hey, what's up👋! My name is Gustavo Nascimento!</h1>
 
-<br>
+<img src="https://media.discordapp.net/attachments/979473643866292225/1016883840360390707/a.gif" height="125" align="right" />
+<div align="left">
 
 - 💼 I am currently not working, but I'm #OpenToWork
 - 🎓 Technical degree in Systems Analysis and Development at ETEC Cidade Tiradentes
 - 💻 Studying technologist in Multiplatform Software Development at FATEC Zona Leste
 - ⚡ Fun Fact: "Trying to do better" - Spider-Man
+
+</div>
 
 <br>
 
@@ -25,9 +28,7 @@
 </div>
 
 ---
-
 <h2>📑 Learning</h2>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="50" alt="reactjs logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="35" width="50" alt="angularjs logo"/>
@@ -40,7 +41,6 @@
 </div>
 
 ---
-
 <h2>🧏🏾‍♂️ Social Media</h2>
 <a href="https://wa.me/5511976495898">
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp badge"/>
@@ -48,13 +48,9 @@
 <a href="https://www.instagram.com/gustanascsouza/">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=DD2A7B&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram badge"/>
 </a>
-<a href="https://twitter.com/gustanascsouza">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter badge"/>
-</a>
 <a href="https://www.facebook.com/gustanascsouza/">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook badge"/>
 </a>
-<br>
 <a href="https://www.linkedin.com/in/gustanascsouza/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin badge"/>
 </a>
@@ -63,9 +59,6 @@
 </a>
 <a href="mailto:gustavo.ns@outlook.com.br">
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="microsoft-outlook badge"/>
-</a>
-<a href="">
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="codepen badge"/>
 </a>
 
 ---
