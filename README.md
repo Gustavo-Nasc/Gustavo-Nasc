@@ -1,6 +1,6 @@
 <h1 align="center">Hey, what's up👋! My name is Gustavo Nascimento!</h1>
 
-<img src="https://media.discordapp.net/attachments/979473643866292225/1016883840360390707/a.gif" height="125" align="right" />
+<img src="https://media.discordapp.net/attachments/979473643866292225/1016883840360390707/a.gif" height="125" width="125" align="right" />
 <div align="left">
 
 - 💼 I am currently not working, but I'm #OpenToWork
@@ -62,5 +62,4 @@
 </a>
 
 ---
-
 ![Snake animation](https://github.com/Gustavo-Nasc/Gustavo-Nasc/blob/output/github-contribution-grid-snake.svg)
