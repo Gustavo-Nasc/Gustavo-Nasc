@@ -17,7 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=graywhite&hide_border=false&username=Gustavo-Nasc" height="175" alt="languages graph"  />
 </div>
 
-<h2>👨‍💻 Tech Stack</h2>
+<h2>👨🏾‍💻 Tech Stack</h2>
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="35" width="50" alt="html5 logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="35" width="50" alt="css3 logo"/>
@@ -41,6 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" width="50" alt="sqlite logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" width="50" />
+  <img src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png" height="35" width="35" />
 </div>
 
 ---
