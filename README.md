@@ -80,6 +80,3 @@
 <a href="mailto:gustavo.ns@outlook.com.br">
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="microsoft-outlook badge"/>
 </a>
-
----
-![Snake animation](https://github.com/Gustavo-Nasc/Gustavo-Nasc/blob/output/github-contribution-grid-snake.svg)
