@@ -3,7 +3,7 @@
 <img src="https://media.discordapp.net/attachments/979473643866292225/1016883840360390707/a.gif" height="125" width="125" align="right" />
 <div align="left">
 
-- 💼 I am currently working at [Grupo Holper](https://www.instagram.com/grupoholper/) as Web Developer,
+- 💼 I am currently working at [@grupoholper](https://www.instagram.com/grupoholper/) as Web Developer,
 - 🎓 Technical degree in Systems Analysis and Development at ETEC Cidade Tiradentes
 - 💻 Studying technologist in Multiplatform Software Development at FATEC Zona Leste
 - ⚡ Fun Fact: "Trying to do better" - Spider-Man
